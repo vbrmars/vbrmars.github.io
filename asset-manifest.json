@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69b3a264.chunk.css",
+    "main.js": "/static/js/main.ab440c11.chunk.js",
+    "main.js.map": "/static/js/main.ab440c11.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
+    "static/js/2.9c54659e.chunk.js": "/static/js/2.9c54659e.chunk.js",
+    "static/js/2.9c54659e.chunk.js.map": "/static/js/2.9c54659e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.66a23020d48f1f43d61838532e722613.js": "/precache-manifest.66a23020d48f1f43d61838532e722613.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.69b3a264.chunk.css.map": "/static/css/main.69b3a264.chunk.css.map",
+    "static/js/2.9c54659e.chunk.js.LICENSE.txt": "/static/js/2.9c54659e.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/front-img1.jpg": "/static/media/front-img1.a131039e.jpg",
+    "static/media/logo.png": "/static/media/logo.58a31115.png",
+    "static/media/products.jpg": "/static/media/products.40c5706e.jpg",
+    "static/media/wholesale.jpg": "/static/media/wholesale.24107c28.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8b9f84b.js",
+    "static/js/2.9c54659e.chunk.js",
+    "static/css/main.69b3a264.chunk.css",
+    "static/js/main.ab440c11.chunk.js"
+  ]
+}
